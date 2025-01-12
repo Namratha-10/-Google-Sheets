@@ -16,5 +16,7 @@ Mathematical Functions: Supports essential functions like:SUM, AVERAGE, MAX, MIN
 Data Formatting: Basic tools for customizing the appearance of cells.
 Real-time Calculations: Automatic updates to computed values when data changes.
 Export and Import: Save and load spreadsheets in common formats (e.g., CSV).
+
+
 Technologies Used:
 HTML, CSS, JavaScript

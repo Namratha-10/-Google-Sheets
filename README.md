@@ -1,6 +1,11 @@
 # Google-Sheets
 A web-based application designed to provide spreadsheet functionality similar to Google Sheets. Users can perform various mathematical operations such as sum, average, max, and min, and organize data efficiently.
-Features:\n
+Features:
+
+
+
+
+
 Spreadsheet Interface: A familiar grid-based layout for inputting and managing data.
 Mathematical Functions: Supports essential functions like:SUM, AVERAGE, MAX, MIN
 Data Formatting: Basic tools for customizing the appearance of cells.

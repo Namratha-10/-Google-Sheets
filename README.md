@@ -3,11 +3,7 @@ A web-based application designed to provide spreadsheet functionality similar to
 
 
 
-
-
 Features:
-
-
 
 
 
@@ -19,4 +15,5 @@ Export and Import: Save and load spreadsheets in common formats (e.g., CSV).
 
 
 Technologies Used:
+
 HTML, CSS, JavaScript
